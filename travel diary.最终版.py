@@ -22,46 +22,46 @@ def generate_travel_diary():
             "name": "大理", 
             "lat": 25.6002, 
             "lng": 100.2489,
-            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/blob/main/大理-1.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/大理-2.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/大理-3.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/大理-4.jpg"],  
+            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/raw/main/大理-1.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/大理-2.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/大理-3.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/大理-4.jpg"],  
             "desc": ""
         },
         {
             "name": "弥勒", 
             "lat": 24.4117, 
             "lng": 103.4148,
-            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/blob/main/弥勒-1.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/弥勒-2.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/弥勒-3.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/弥勒-5.jpg"],
+            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/raw/main/弥勒-1.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/弥勒-2.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/弥勒-3.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/弥勒-5.jpg"],
             "desc": ""
         },
         {
             "name": "贵阳", 
             "lat": 26.5783, 
             "lng": 106.7134,
-            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/blob/main/贵阳-1.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/贵阳-2.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/贵阳-3.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/贵阳-4.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/贵阳-5.jpg"],
+            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/raw/main/贵阳-1.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/贵阳-2.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/贵阳-3.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/贵阳-4.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/贵阳-5.jpg"],
             "desc": ""
         },
         {
             "name": "南宁", 
             "lat": 22.8177, 
             "lng": 108.3663,
-            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/blob/main/南宁-1.jpg"],
+            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/raw/main/南宁-1.jpg"],
             "desc": ""
         },
         {
             "name": "楚雄", 
             "lat": 25.0329, 
             "lng": 101.5461,
-            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/blob/main/楚雄-1.jpg",
-                       "https://github.com/traveldiary3/traveldiary3.github.io/blob/main/楚雄-2.jpg"],
+            "photos": ["https://github.com/traveldiary3/traveldiary3.github.io/raw/main/楚雄-1.jpg",
+                       "https://github.com/traveldiary3/traveldiary3.github.io/raw/main/楚雄-2.jpg"],
         }
     ]
     default_want_to_go_places = [
@@ -877,3 +877,4 @@ def generate_travel_diary():
 if __name__ == "__main__":
 
     generate_travel_diary()
+
